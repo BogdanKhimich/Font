@@ -1,0 +1,9 @@
+@font-face {
+   font-family: Telekom-Icon;
+   font-style: normal;
+   font-weight: 400;
+   src: url(../fonts/teleicon-outline.eot);
+   src: url(../fonts/teleicon-outline.eot?#iefix) format("embedded-opentype"),
+      url(fonts/teleicon-outline.woff) format("woff"), url(../fonts/teleicon-outline.ttf) format("truetype"),
+      url(../fonts/teleicon-outline.svg#teleicon-outline) format("svg");
+}
