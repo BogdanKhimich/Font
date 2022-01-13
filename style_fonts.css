@@ -4,7 +4,7 @@
    font-weight: 400;
    src: url(../fonts/teleicon-outline.eot);
    src: url(../fonts/teleicon-outline.eot?#iefix) format("embedded-opentype"),
-      url(fonts/teleicon-outline.woff) format("woff"), url(../fonts/teleicon-outline.ttf) format("truetype"),
+      url(../fonts/teleicon-outline.woff) format("woff"), url(../fonts/teleicon-outline.ttf) format("truetype"),
       url(../fonts/teleicon-outline.svg#teleicon-outline) format("svg");
 }
 
@@ -13,7 +13,7 @@
    font-style: normal;
    font-weight: 400;
    src: url(https://github.com/CodaCrop/hiwim/blob/02b1cbc39a82ba01d568dde4e12460132350c051/assets/fonts/teleicon-ui.eot);
-   src: url(../fonts/teleicon-ui.eot?#iefix) format("embedded-opentype"), url(fonts/teleicon-ui.woff) format("woff"),
+   src: url(../fonts/teleicon-ui.eot?#iefix) format("embedded-opentype"), url(../fonts/teleicon-ui.woff) format("woff"),
       url(../fonts/teleicon-ui.ttf) format("truetype"), url(../fonts/teleicon-ui.svg#teleicon-ui) format("svg");
 }
 
@@ -23,7 +23,7 @@
    font-weight: 200;
    src: url(../fonts/telegroteskscreen-thin.eot);
    src: url(../fonts/telegroteskscreen-thin.eot?#iefix) format("embedded-opentype"),
-      url(fonts/telegroteskscreen-thin.woff) format("woff"), url(../fonts/telegroteskscreen-thin.ttf) format("truetype"),
+      url(../fonts/telegroteskscreen-thin.woff) format("woff"), url(../fonts/telegroteskscreen-thin.ttf) format("truetype"),
       url(../fonts/telegroteskscreen-thin.svg#telegroteskscreen-thin) format("svg");
 }
 
@@ -33,7 +33,7 @@
    font-weight: 400;
    src: url(../fonts/telegroteskscreen-regular.eot);
    src: url(../fonts/telegroteskscreen-regular.eot?#iefix) format("embedded-opentype"),
-      url(fonts/telegroteskscreen-regular.woff) format("woff"),
+      url(../fonts/telegroteskscreen-regular.woff) format("woff"),
       url(../fonts/telegroteskscreen-regular.ttf) format("truetype"),
       url(../fonts/telegroteskscreen-regular.svg#telegroteskscreen-regular) format("svg");
 }
@@ -44,7 +44,7 @@
    font-weight: 400;
    src: url(../fonts/telegroteskscreen-regular-italic.eot);
    src: url(../fonts/telegroteskscreen-regular-italic.eot?#iefix) format("embedded-opentype"),
-      url(fonts/telegroteskscreen-regular-italic.woff) format("woff"),
+      url(../fonts/telegroteskscreen-regular-italic.woff) format("woff"),
       url(../fonts/telegroteskscreen-regular-italic.ttf) format("truetype"),
       url(../fonts/telegroteskscreen-regular-italic.svg#telegroteskscreen-regular-italic) format("svg");
 }
@@ -77,7 +77,7 @@
    font-weight: 700;
    src: url(../fonts/telegroteskscreen-bold.eot);
    src: url(../fonts/telegroteskscreen-bold.eot?#iefix) format("embedded-opentype"),
-      url(fonts/telegroteskscreen-bold.woff) format("woff"), url(../fonts/telegroteskscreen-bold.ttf) format("truetype"),
+      url(../fonts/telegroteskscreen-bold.woff) format("woff"), url(../fonts/telegroteskscreen-bold.ttf) format("truetype"),
       url(../fonts/telegroteskscreen-bold.svg#telegroteskscreen-bold) format("svg");
 }
 
@@ -87,7 +87,7 @@
    font-weight: 800;
    src: url(../fonts/telegroteskscreen-ultra.eot);
    src: url(../fonts/telegroteskscreen-ultra.eot?#iefix) format("embedded-opentype"),
-      url(fonts/telegroteskscreen-ultra.woff) format("woff"),
+      url(../fonts/telegroteskscreen-ultra.woff) format("woff"),
       url(../fonts/telegroteskscreen-ultra.ttf) format("truetype"),
       url(../fonts/telegroteskscreen-ultra.svg#telegroteskscreen-ultra) format("svg");
 }
