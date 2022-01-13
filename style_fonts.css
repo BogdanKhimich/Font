@@ -17,55 +17,34 @@
    font-family: TeleGroteskScreen;
    font-style: normal;
    font-weight: 200;
-   src: url(../fonts/telegroteskscreen-thin.woff) format("woff");
+   src: url(fonts/telegroteskscreen-thin.woff) format("woff");
 }
 
 @font-face {
    font-family: TeleGroteskScreen;
    font-style: normal;
    font-weight: 400;
-   src: url(../fonts/telegroteskscreen-regular.woff) format("woff");
+   src: url(fonts/telegroteskscreen-regular.woff) format("woff");
 }
 
 @font-face {
    font-family: TeleGroteskScreen;
    font-style: italic;
    font-weight: 400;
-   src: url(../fonts/telegroteskscreen-regular-italic.woff) format("woff");
+   src: url(fonts/telegroteskscreen-regular-italic.woff) format("woff");
 }
 
-/* @font-face {
-   font-family: TeleGroteskScreen;
-   font-style: normal;
-   font-weight: 600;
-   src: url(../fonts/telegroteskscreen-medium.eot);
-   src: url(../fonts/telegroteskscreen-medium.eot?#iefix) format("embedded-opentype"),
-      url(fonts/) format("woff"),
-      url(../fonts/telegroteskscreen-medium.ttf) format("truetype"),
-      url(../fonts/telegroteskscreen-medium.svg#telegroteskscreen-medium) format("svg");
-} */
-
-/* @font-face {
-   font-family: TeleGroteskScreen;
-   font-style: italic;
-   font-weight: 600;
-   src: url(../fonts/telegroteskscreen-medium-italic.eot);
-   src: url(../fonts/telegroteskscreen-medium-italic.eot?#iefix) format("embedded-opentype"),
-      url(../fonts/telegroteskscreen-medium-italic.woff) format("woff"),
-      url(../fonts/telegroteskscreen-medium-italic.ttf) format("truetype"),
-      url(../fonts/telegroteskscreen-medium-italic.svg#telegroteskscreen-medium-italic) format("svg");
-} */
 
 @font-face {
    font-family: TeleGroteskScreen;
    font-style: normal;
    font-weight: 700;
-   src: url(../fonts/telegroteskscreen-bold.woff) format("woff");
+   src: url(fonts/telegroteskscreen-bold.woff) format("woff");
 }
 
 @font-face {
    font-family: TeleGroteskScreen;
    font-style: normal;
    font-weight: 800;
-   src: url(../fonts/telegroteskscreen-ultra.woff) format("woff");
+   src: url(fonts/telegroteskscreen-ultra.woff) format("woff");
 }
